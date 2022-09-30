@@ -1,1 +1,0 @@
-# freecodecamp-sql1
